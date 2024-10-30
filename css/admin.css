@@ -1,0 +1,29 @@
+/* Horoscop Admin CSS */
+
+.wrap .horoscope_form h3 {
+    background-color: #ECECEC;
+    border-bottom: 1px solid #CCCCCC;
+    border-radius: 5px;
+	-webkit-border-radius:5px; 
+	-moz-border-radius: 5px;
+    border-top: 1px solid #CCCCCC;
+    padding: 5px;
+	-webkit-box-shadow: 1px 1px 4px 1px #ddd;
+	box-shadow: 1px 1px 4px 1px #ddd;
+}
+span.description{
+	position:absolute;
+	right:250px;
+}
+.form-table th {
+	font-size:12px;
+}
+.form-table td {
+	padding:0px 10px!important;
+}
+.horoscope-reader-item{
+
+}
+.horoscope-reader-summary.with-logos {
+	min-height:60px;
+}

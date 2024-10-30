@@ -1,0 +1,13 @@
+/* Horoscop Widget CSS */
+
+.horoscope_feeder_reader div, .horoscope_feeder_reader p, .horoscope_feeder_reader h1, .horoscope_feeder_reader h2, .horoscope_feeder_reader h3, .horoscope_feeder_reader h4, .horoscope_feeder_reader h5, .horoscope_feeder_reader h6, .horoscope_feeder_reader blockquote, .horoscope_feeder_reader pre, .horoscope_feeder_reader a, .horoscope_feeder_reader span, .horoscope_feeder_reader img, .horoscope_feeder_reader b, .horoscope_feeder_reader i, .horoscope_feeder_reader u, .horoscope_feeder_reader small, .horoscope_feeder_reader time, .horoscope_feeder_reader cite, .horoscope_feeder_reader table, .horoscope_feeder_reader tr, .horoscope_feeder_reader th, .horoscope_feeder_reader td, .horoscope_feeder_reader caption, .horoscope_feeder_reader select, .horoscope_feeder_reader option, .horoscope_feeder_reader summary {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+.horoscope-reader-item{
+	float:left;
+}
